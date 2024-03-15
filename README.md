@@ -5,7 +5,8 @@ Clone the repository and open it in the editor and start running the below comma
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `cd mobishaala-main`
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
